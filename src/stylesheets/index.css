@@ -1,0 +1,34 @@
+body {
+  padding-bottom: 70px;
+}
+
+.navbar-inverse {
+  background-color: #223a48;
+  border-color: #121e25;
+}
+
+.navbar-inverse a.navbar-brand {
+  color: #e4edf6;
+}
+
+.jumbotron {
+  background-color: #e4edf6;
+}
+
+.cookie-policy {
+  z-index: 1;
+  background-color: rgba(34, 58, 72, 0.9);
+  color: #eeeeee;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  line-height: 60px;
+}
+
+.cookie-policy .cookie-policy--close {
+  cursor: pointer;
+}
+
+.cookie-policy .cookie-policy--close:hover {
+   color: #eeeeee;
+}
