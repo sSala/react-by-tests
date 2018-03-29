@@ -5,3 +5,7 @@ node_js:
   - "7"
   - "8"
   - "9"
+
+script:
+  - echo "skipping tests"
+  - yarn build
