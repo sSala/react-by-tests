@@ -1,6 +1,4 @@
 import React, {Component} from 'react';
-import PropTypes from "prop-types";
-import Article from "../class/Article";
 
 export default class ArticleComponent extends Component {
 

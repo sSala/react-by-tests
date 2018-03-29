@@ -1,4 +1,7 @@
 # React by tests
+
+[![Build Status](https://api.travis-ci.org/sSala/react-by-tests.svg?branch=master)](https://travis-ci.org/sSala/react-by-tests)
+
 This project is created with [create-react-app](https://github.com/facebook/create-react-app)
 
 Learn React using the tests.
@@ -32,10 +35,6 @@ Just create a project, and you’re good to go.
 **You’ll need to have Node >= 9.8.0 on your local development machine** You can use [nvm](https://github.com/creationix/nvm#installation) (macOS/Linux) or [nvm-windows](https://github.com/coreybutler/nvm-windows#node-version-manager-nvm-for-windows) to easily switch Node versions between different projects.
 
 Inside the newly created project, you can run some built-in commands:
-
-### `npm install` or `yarn install`
-
-Install all packages.
 
 ### `npm start` or `yarn start`
 
