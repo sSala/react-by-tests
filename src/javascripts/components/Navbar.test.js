@@ -4,7 +4,7 @@ import '../SetupTests';
 import {shallow} from 'enzyme';
 import Navbar from './Navbar';
 
-describe('<Footer />', () => {
+describe('<Navbar />', () => {
 
     it('renders without crashing', () => {
         shallow(<Navbar />);
