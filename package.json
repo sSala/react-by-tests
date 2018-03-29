@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "engines": {
-    "node": "9.8.0"
+    "node": ">=6.0.0 <10.0.0"
   },
   "eject": "react-scripts eject",
   "dependencies": {
