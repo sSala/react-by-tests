@@ -33,6 +33,10 @@ Just create a project, and you’re good to go.
 
 Inside the newly created project, you can run some built-in commands:
 
+### `npm install` or `yarn install`
+
+Install all packages.
+
 ### `npm start` or `yarn start`
 
 Runs the app in development mode.<br>
