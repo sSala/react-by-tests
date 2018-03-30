@@ -19,24 +19,24 @@ I think that this is a good way to learn new technologies.
 
 ### Test-driven development cycle
 
-1. #####Add a test
+1. ##### Add a test
     We already add all test we need to implements the project.<br>
     When you are more confident you can edit and add new tests
-2. #####Run all tests and see if the new test fails
+2. ##### Run all tests and see if the new test fails
     The tests should fail for the expected reason.
-3. #####Write the code
+3. ##### Write the code
     The next step is to write some code that causes the test to pass. The new code written at this stage is not perfect and may, for example, pass the test in an inelegant way. That is acceptable because it will be improved and honed in Step 5.<br>
     At this point, the only purpose of the written code is to pass the test. The programmer must not write code that is beyond the functionality that the test checks.
-4. #####Run tests
+4. ##### Run tests
     If all test cases now pass, the programmer can be confident that the new code meets the test requirements, and does not break or degrade any existing features. If they do not, the new code must be adjusted until they do.
-5. #####Refactor code
+5. ##### Refactor code
     The growing code base must be cleaned up regularly during test-driven development. New code can be moved from where it was convenient for passing a test to where it more logically belongs.
     * Duplication must be removed
     * Object, class, variable and method names should clearly represent their current purpose and use, as extra functionality is added
     * As features are added, method bodies can get longer and other objects larger. They benefit from being split and their parts carefully named to improve readability and maintainability
     * Inheritance hierarchies may be rearranged to be more logical and helpful, and perhaps to benefit from recognized design patterns
 
-#####Repeat
+##### Repeat
 
 ## Quick Overview
 
